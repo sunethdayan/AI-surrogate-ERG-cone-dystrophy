@@ -1,0 +1,4 @@
+Modality,N,CORD_N,Normal_N,Accuracy,Accuracy_95CI_low,Accuracy_95CI_high,Sensitivity,Sensitivity_95CI_low,Sensitivity_95CI_high,Specificity,Specificity_95CI_low,Specificity_95CI_high,AUC,AUC_95CI_low,AUC_95CI_high,TP,TN,FP,FN
+OCT,102,60,42,0.922,0.853,0.96,0.917,0.819,0.964,0.929,0.81,0.975,0.988,0.97,0.999,55,39,3,5
+FAF,56,47,9,0.911,0.807,0.961,0.915,0.801,0.966,0.889,0.565,0.98,0.95,0.88,1.0,43,8,1,4
+FF,86,41,45,0.895,0.813,0.944,0.829,0.687,0.915,0.956,0.852,0.988,0.98,0.951,0.997,34,43,2,7

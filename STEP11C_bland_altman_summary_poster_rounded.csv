@@ -1,0 +1,5 @@
+Model,N,Mean_actual_ERG,Mean_predicted_ERG,Bias_predicted_minus_actual,Bias_95CI_low,Bias_95CI_high,SD_difference,Lower_LoA,Lower_LoA_95CI_low,Lower_LoA_95CI_high,Upper_LoA,Upper_LoA_95CI_low,Upper_LoA_95CI_high,Proportional_bias_slope,Proportional_bias_intercept,Proportional_bias_r,Proportional_bias_p,Bias_boot_95CI_low,Bias_boot_95CI_high,Lower_LoA_boot_95CI_low,Lower_LoA_boot_95CI_high,Upper_LoA_boot_95CI_low,Upper_LoA_boot_95CI_high
+FF,41,31.498,32.331,0.833,-7.003,8.669,24.825,-47.825,-61.326,-34.323,49.491,35.989,62.992,-0.362,12.381,-0.411,0.008,-6.873,8.196,-62.465,-31.715,35.444,61.098
+OCT,60,31.45,31.445,-0.005,-6.786,6.776,26.251,-51.456,-63.11,-39.802,51.446,39.792,63.1,-0.659,20.704,-0.539,0.0,-6.753,6.599,-63.135,-38.105,41.924,59.734
+FAF,47,28.979,28.83,-0.148,-6.267,5.97,20.839,-40.993,-51.524,-30.461,40.696,30.165,51.228,-0.414,11.807,-0.399,0.005,-5.924,5.673,-49.795,-30.748,30.398,50.357
+Multimodal OCT+FAF+FF,33,28.727,29.205,0.478,-4.937,5.893,15.271,-29.453,-38.801,-20.104,30.409,21.06,39.758,-0.347,10.537,-0.521,0.002,-4.836,5.41,-39.528,-19.222,21.068,37.943

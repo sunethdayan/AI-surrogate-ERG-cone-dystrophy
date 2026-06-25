@@ -1,0 +1,87 @@
+filename,filepath,CaseID,Modality,Split,Label,Class,ERG30Hz,ERG_Status,Pred_CORD_Probability,Pred_Class,Pred_Label
+Case 22 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 22 - FF.png,22.0,FF,Test,CORD,1,22.0,Abnormal,0.9473389,1,CORD
+Case 25 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 25 - FF.png,25.0,FF,Test,CORD,1,8.0,Abnormal,0.897822,1,CORD
+Case 27 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 27 - FF.png,27.0,FF,Test,CORD,1,35.0,Abnormal,0.85844135,1,CORD
+Case 29 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 29 - FF.png,29.0,FF,Test,CORD,1,60.0,Normal,0.48269922,0,Normal
+Case 30 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 30 - FF.png,30.0,FF,Test,CORD,1,30.0,Abnormal,0.6378851,1,CORD
+Case 32 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 32 - FF.png,32.0,FF,Test,CORD,1,60.0,Normal,0.41546878,0,Normal
+Case 33 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 33 - FF.png,33.0,FF,Test,CORD,1,67.5,Normal,0.7093695,1,CORD
+Case 34 - ff.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 34 - ff.png,34.0,FF,Test,CORD,1,32.5,Abnormal,0.44494522,0,Normal
+Case 35 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 35 - FF.png,35.0,FF,Test,CORD,1,75.0,Normal,0.38712537,0,Normal
+Case 36 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 36 - FF.png,36.0,FF,Test,CORD,1,95.0,Normal,0.69859284,1,CORD
+Case 38 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 38 - FF.png,38.0,FF,Test,CORD,1,40.0,Abnormal,0.3507475,0,Normal
+Case 8 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 8 - FF.png,8.0,FF,Test,CORD,1,10.0,Abnormal,0.9509491,1,CORD
+Case 9 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 9 - FF.png,9.0,FF,Test,CORD,1,5.9,Abnormal,0.96871924,1,CORD
+Case 39 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 39 - FF.png,39.0,FF,Test,CORD,1,7.0,Abnormal,0.7525142,1,CORD
+Case 40 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 40 - FF.png,40.0,FF,Test,CORD,1,0.0,Abnormal,0.88744414,1,CORD
+Case 41 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 41 - FF.png,41.0,FF,Test,CORD,1,0.0,Abnormal,0.8525203,1,CORD
+Case 44 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 44 - FF.png,44.0,FF,Test,CORD,1,42.0,Abnormal,0.78602624,1,CORD
+Case 45 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 45 - FF.png,45.0,FF,Test,CORD,1,52.0,Normal,0.7796715,1,CORD
+Case 49 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 49 - FF.png,49.0,FF,Test,CORD,1,0.0,Abnormal,0.6315954,1,CORD
+Case 51 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 51 - FF.png,51.0,FF,Test,CORD,1,0.0,Abnormal,0.6908176,1,CORD
+Case 52 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 52 - FF.png,52.0,FF,Test,CORD,1,52.5,Normal,0.73778796,1,CORD
+Case 53 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 53 - FF.png,53.0,FF,Test,CORD,1,0.0,Abnormal,0.56744194,1,CORD
+Case 54 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 54 - FF.png,54.0,FF,Test,CORD,1,0.0,Abnormal,0.64488256,1,CORD
+Case 55 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 55 - FF.png,55.0,FF,Test,CORD,1,0.0,Abnormal,0.73999906,1,CORD
+Case 56 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 56 - FF.png,56.0,FF,Test,CORD,1,66.0,Normal,0.84331137,1,CORD
+Case 57 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 57 - FF.png,57.0,FF,Test,CORD,1,66.0,Normal,0.80463713,1,CORD
+Case 58 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 58 - FF.png,58.0,FF,Test,CORD,1,130.0,Normal,0.24866246,0,Normal
+Case 59 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 59 - FF.png,59.0,FF,Test,CORD,1,130.0,Normal,0.4337626,0,Normal
+Case 60 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 60 - FF.png,60.0,FF,Test,CORD,1,0.0,Abnormal,0.7453697,1,CORD
+Case 61 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 61 - FF.png,61.0,FF,Test,CORD,1,0.0,Abnormal,0.8732167,1,CORD
+Case 63 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 63 - FF.png,63.0,FF,Test,CORD,1,55.0,Normal,0.872118,1,CORD
+Case 62 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 62 - FF.png,62.0,FF,Test,CORD,1,55.0,Normal,0.6256398,1,CORD
+Case 48 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 48 - FF.png,48.0,FF,Test,CORD,1,0.0,Abnormal,0.9230202,1,CORD
+Case 47 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 47 - FF.png,47.0,FF,Test,CORD,1,0.0,Abnormal,0.79445,1,CORD
+Case 46 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 46 - FF.png,46.0,FF,Test,CORD,1,0.0,Abnormal,0.87827694,1,CORD
+Case 23 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 23 - FF.png,23.0,FF,Test,CORD,1,18.0,Abnormal,0.94463515,1,CORD
+Case 24 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 24 - FF.png,24.0,FF,Test,CORD,1,15.0,Abnormal,0.87790465,1,CORD
+Case 26 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 26 - FF.png,26.0,FF,Test,CORD,1,42.0,Abnormal,0.8209603,1,CORD
+Case 15 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 15 - FF.png,15.0,FF,Test,CORD,1,11.0,Abnormal,0.84381944,1,CORD
+Case 50 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 50 - FF.png,50.0,FF,Test,CORD,1,0.0,Abnormal,0.83603543,1,CORD
+Case 14 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 14 - FF.png,14.0,FF,Test,CORD,1,9.0,Abnormal,0.7340701,1,CORD
+039.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/039.jpg,,FF,Test,Normal,0,60.0,Normal,0.3549077,0,Normal
+040.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/040.jpg,,FF,Test,Normal,0,60.0,Normal,0.5140199,1,CORD
+042.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/042.jpg,,FF,Test,Normal,0,60.0,Normal,0.2959114,0,Normal
+045.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/045.jpg,,FF,Test,Normal,0,60.0,Normal,0.3403571,0,Normal
+047.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/047.jpg,,FF,Test,Normal,0,60.0,Normal,0.28214458,0,Normal
+048.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/048.jpg,,FF,Test,Normal,0,60.0,Normal,0.1593688,0,Normal
+062.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/062.jpg,,FF,Test,Normal,0,60.0,Normal,0.35805303,0,Normal
+063.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/063.jpg,,FF,Test,Normal,0,60.0,Normal,0.35905373,0,Normal
+064.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/064.jpg,,FF,Test,Normal,0,60.0,Normal,0.2605353,0,Normal
+065.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/065.jpg,,FF,Test,Normal,0,60.0,Normal,0.26988924,0,Normal
+066.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/066.jpg,,FF,Test,Normal,0,60.0,Normal,0.36454627,0,Normal
+067.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/067.jpg,,FF,Test,Normal,0,60.0,Normal,0.45829633,0,Normal
+068.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/068.jpg,,FF,Test,Normal,0,60.0,Normal,0.3280342,0,Normal
+105.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/105.jpg,,FF,Test,Normal,0,60.0,Normal,0.12466487,0,Normal
+104.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/104.jpg,,FF,Test,Normal,0,60.0,Normal,0.08336998,0,Normal
+103.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/103.jpg,,FF,Test,Normal,0,60.0,Normal,0.035162732,0,Normal
+102.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/102.jpg,,FF,Test,Normal,0,60.0,Normal,0.022624502,0,Normal
+101.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/101.jpg,,FF,Test,Normal,0,60.0,Normal,0.05051576,0,Normal
+100.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/100.png,,FF,Test,Normal,0,60.0,Normal,0.21305178,0,Normal
+099.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/099.jpg,,FF,Test,Normal,0,60.0,Normal,0.33806077,0,Normal
+098.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/098.png,,FF,Test,Normal,0,60.0,Normal,0.301757,0,Normal
+096.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/096.png,,FF,Test,Normal,0,60.0,Normal,0.029800715,0,Normal
+095.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/095.jpg,,FF,Test,Normal,0,60.0,Normal,0.0341511,0,Normal
+089.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/089.jpg,,FF,Test,Normal,0,60.0,Normal,0.023063729,0,Normal
+088.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/088.png,,FF,Test,Normal,0,60.0,Normal,0.22359376,0,Normal
+081.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/081.png,,FF,Test,Normal,0,60.0,Normal,0.18927753,0,Normal
+078.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/078.png,,FF,Test,Normal,0,60.0,Normal,0.23654188,0,Normal
+077.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/077.png,,FF,Test,Normal,0,60.0,Normal,0.06483242,0,Normal
+073.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/073.png,,FF,Test,Normal,0,60.0,Normal,0.19512613,0,Normal
+070.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/070.jpg,,FF,Test,Normal,0,60.0,Normal,0.20744878,0,Normal
+059.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/059.png,,FF,Test,Normal,0,60.0,Normal,0.21166116,0,Normal
+060.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/060.png,,FF,Test,Normal,0,60.0,Normal,0.22141801,0,Normal
+061.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/061.png,,FF,Test,Normal,0,60.0,Normal,0.27214086,0,Normal
+058.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/058.png,,FF,Test,Normal,0,60.0,Normal,0.16671057,0,Normal
+057.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/057.png,,FF,Test,Normal,0,60.0,Normal,0.108404614,0,Normal
+056.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/056.png,,FF,Test,Normal,0,60.0,Normal,0.53924054,1,CORD
+055.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/055.jpg,,FF,Test,Normal,0,60.0,Normal,0.04145042,0,Normal
+054.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/054.jpg,,FF,Test,Normal,0,60.0,Normal,0.06520291,0,Normal
+053.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/053.jpg,,FF,Test,Normal,0,60.0,Normal,0.023806341,0,Normal
+052.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/052.jpg,,FF,Test,Normal,0,60.0,Normal,0.03529498,0,Normal
+051.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/051.jpg,,FF,Test,Normal,0,60.0,Normal,0.011170565,0,Normal
+049.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/049.jpg,,FF,Test,Normal,0,60.0,Normal,0.0511288,0,Normal
+046.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/046.jpg,,FF,Test,Normal,0,60.0,Normal,0.13326278,0,Normal
+044.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/044.jpg,,FF,Test,Normal,0,60.0,Normal,0.07551975,0,Normal
+043.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/043.jpg,,FF,Test,Normal,0,60.0,Normal,0.1593639,0,Normal

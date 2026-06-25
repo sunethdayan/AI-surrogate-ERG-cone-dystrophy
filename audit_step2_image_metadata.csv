@@ -1,0 +1,666 @@
+filename,filepath,CaseID,Modality,Split,Label,Class,ERG30Hz,ERG_Status
+Screenshot 2026-06-07 at 13.33.42.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-07 at 13.33.42.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.17.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.17.17.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.17.49.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.17.49.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.18.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.18.12.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.18.36.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.18.36.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.18.58.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.18.58.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.19.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.19.45.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.19.59.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.19.59.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.20.16.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.20.16.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.20.37.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.20.37.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.25.01.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.25.01.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.25.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.25.17.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.26.07.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.26.07.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.26.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.26.27.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.33.54.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.33.54.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.34.25.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.34.25.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.34.44.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.34.44.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.35.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.35.04.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.35.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.35.20.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.35.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.35.45.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.51.19.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.51.19.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.51.49.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.51.49.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.52.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.52.12.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.52.25.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.52.25.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.52.46.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.52.46.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.53.23.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.53.23.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.54.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.54.17.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.54.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.54.38.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.54.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.54.52.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.55.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.55.12.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.55.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.55.27.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.55.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.55.38.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.56.05.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.56.05.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.56.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.56.17.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.56.23.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.56.23.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.56.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.56.43.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.57.01.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.57.01.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.57.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 19.57.15.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 20.05.01.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 20.05.01.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 20.05.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 20.05.17.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 20.05.37.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 20.05.37.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 20.05.53.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 20.05.53.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 20.07.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 20.07.45.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 20.08.13.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 20.08.13.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 21.47.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 21.47.00.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 21.47.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 21.47.12.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 21.47.22.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 21.47.22.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 21.47.34.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 21.47.34.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 21.47.51.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 21.47.51.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 21.48.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-11 at 21.48.03.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-13 at 21.03.09.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-13 at 21.03.09.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.39.57.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.39.57.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.40.11.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.40.11.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.40.25.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.40.25.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.40.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.40.43.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.40.58.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.40.58.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.41.16.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.41.16.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.41.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.41.27.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.41.41.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.41.41.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.42.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.42.04.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-14 at 11.42.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-14 at 11.42.17.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.03.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 20.03.43.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.04.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 20.04.03.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.33.50.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 20.33.50.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.33.59.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 20.33.59.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.34.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 20.34.43.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.34.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 20.34.52.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 21.02.11.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 21.02.11.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 21.02.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 21.02.27.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 21.02.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 21.02.45.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 21.03.06.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 21.03.06.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 21.03.34.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-20 at 21.03.34.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.56.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-21 at 15.56.47.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.57.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-21 at 15.57.04.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.57.16.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-21 at 15.57.16.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.57.32.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-21 at 15.57.32.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.19.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-21 at 16.19.08.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.19.16.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-21 at 16.19.16.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.10.22.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-22 at 19.10.22.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.10.29.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-22 at 19.10.29.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.10.39.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-22 at 19.10.39.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.10.57.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD OCT - Train/Screenshot 2026-06-22 at 19.10.57.png,,OCT,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.34.13.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.34.13.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.37.24.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.37.24.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.39.07.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.39.07.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.39.54.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.39.54.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.40.23.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.40.23.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.41.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.41.45.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.42.11.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.42.11.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.42.37.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 11.42.37.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 12.00.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 12.00.08.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 12.00.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 12.00.27.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 13.06.35.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 13.06.35.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 18.48.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 18.48.43.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.04.57.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.04.57.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.06.55.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.06.55.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.07.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.07.12.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.08.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.08.12.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.09.06.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.09.06.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.42.22.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.42.22.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.42.55.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 19.42.55.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.00.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.00.20.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.00.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.00.52.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.02.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.02.30.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.02.58.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.02.58.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.43.55.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.43.55.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.44.02.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.44.02.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.44.10.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.44.10.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.44.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.44.17.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.44.26.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.44.26.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.44.34.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.44.34.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.44.41.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.44.41.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.58.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.58.47.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.59.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.59.08.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.59.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.59.20.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.59.35.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.59.35.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.59.48.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-20 at 20.59.48.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 14.08.29.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 14.08.29.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 14.08.49.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 14.08.49.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 14.09.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 14.09.03.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 14.34.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 14.34.45.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 14.34.59.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 14.34.59.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 14.52.21.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 14.52.21.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.16.46.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.16.46.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.17.09.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.17.09.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.17.33.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.17.33.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.17.56.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.17.56.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.25.51.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.25.51.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.26.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.26.08.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.26.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.26.30.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.26.39.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.26.39.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.26.53.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.26.53.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.27.42.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 15.27.42.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.16.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.16.47.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.17.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.17.04.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.17.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.17.12.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.17.21.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.17.21.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.17.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.17.30.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.17.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.17.38.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.18.39.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.18.39.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.18.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.18.52.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.36.44.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.36.44.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.36.54.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.36.54.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.37.06.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.37.06.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 16.37.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-21 at 16.37.17.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 17.40.01.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 17.40.01.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 17.40.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 17.40.12.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 17.40.25.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 17.40.25.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 17.40.40.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 17.40.40.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.09.37.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.09.37.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.31.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.31.47.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.31.57.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.31.57.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.32.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.32.08.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.32.26.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.32.26.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.32.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.32.45.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.33.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FAF - Train/Screenshot 2026-06-22 at 19.33.00.png,,FAF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.38.51.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.38.51.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.59.35.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.59.35.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.59.50.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.59.50.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 13.06.05.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 13.06.05.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 13.17.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 13.17.20.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 18.48.06.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 18.48.06.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 18.48.54.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 18.48.54.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.04.07.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.04.07.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.04.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.04.30.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.06.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.06.04.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.06.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.06.20.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.07.39.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.07.39.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.07.51.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.07.51.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.14.36.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.14.36.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.14.56.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.14.56.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.39.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.39.27.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.39.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.39.43.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.40.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.40.15.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.40.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.40.30.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.57.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.57.30.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.00.09.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.00.09.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.00.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.00.43.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.01.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.01.08.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.02.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.02.15.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.02.48.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.02.48.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.42.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.42.30.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.42.39.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.42.39.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.42.48.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.42.48.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.42.56.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.42.56.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.43.05.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.43.05.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.43.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.43.15.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.43.23.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.43.23.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.43.34.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.43.34.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.43.42.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.43.42.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.58.06.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.58.06.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.58.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.58.18.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.34.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-21 at 15.34.45.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.34.56.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-21 at 15.34.56.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.35.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-21 at 15.35.15.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-21 at 15.35.33.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-21 at 15.35.33.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 19.08.58.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-22 at 19.08.58.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 18.48.53.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-22 at 18.48.53.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 18.48.37.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-22 at 18.48.37.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-22 at 18.48.24.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-22 at 18.48.24.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.58.34.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.58.34.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.57.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.57.52.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 20.57.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 20.57.38.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.42.28.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.42.28.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.40.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.40.12.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.37.19.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.37.19.png,,FF,Train,CORD,1,,Unknown
+screenshot.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/screenshot.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.39.40.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.39.40.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.41.35.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.41.35.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 11.41.59.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 11.41.59.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.40.55.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.40.55.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 19.41.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 19.41.38.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 13.18.11.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 13.18.11.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 13.17.57.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 13.17.57.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-20 at 13.17.36.png,/content/drive/MyDrive/CORD project/Image data sets/Train/CORD/CORD FF - Train (Cleaned)/Screenshot 2026-06-20 at 13.17.36.png,,FF,Train,CORD,1,,Unknown
+Screenshot 2026-06-11 at 19.36.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 19.36.45.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 20.59.13.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 20.59.13.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 20.59.31.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 20.59.31.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 20.59.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 20.59.47.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.00.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.00.27.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.00.51.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.00.51.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.01.14.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.01.14.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.02.21.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.02.21.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.02.35.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.02.35.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.03.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.03.17.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.04.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.04.04.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.04.22.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.04.22.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.05.07.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.05.07.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.05.43.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.05.43.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.06.01.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.06.01.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.06.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.06.15.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.06.32.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.06.32.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.07.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.07.00.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.07.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.07.17.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.07.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.07.47.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.08.25.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.08.25.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.08.41.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.08.41.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.09.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.09.15.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.09.32.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.09.32.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.09.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.09.52.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.50.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.50.03.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.51.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.51.20.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.53.13.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.53.13.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.53.41.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.53.41.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.54.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.54.00.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.54.40.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.54.40.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.55.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.55.00.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.55.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.55.17.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.56.40.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.56.40.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.57.32.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.57.32.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.58.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.58.03.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.58.35.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-11 at 21.58.35.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 20.27.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-20 at 20.27.27.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.44.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.44.45.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.45.09.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.45.09.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.45.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.45.18.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.45.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.45.38.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.46.53.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.46.53.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.47.16.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.47.16.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.47.24.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.47.24.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.47.33.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.47.33.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.48.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.48.08.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.48.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.48.20.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.48.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.48.52.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.49.15.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.22.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.49.22.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.30.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.49.30.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.50.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.49.50.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.58.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.49.58.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.51.47.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.51.47.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.51.55.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.51.55.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.52.03.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.17.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.52.17.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.52.38.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.52.45.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.52.52.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.53.00.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.53.20.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.36.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.53.36.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.52.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.53.52.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.54.10.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.54.10.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.54.53.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.54.53.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.55.18.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.55.27.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.42.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.55.42.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.49.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.55.49.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.03.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.56.03.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.09.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.56.09.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.24.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.56.24.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.38.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.56.38.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.45.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.56.45.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.57.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.57.00.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.57.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.57.18.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.57.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.57.27.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.57.42.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.57.42.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.57.54.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.57.54.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.58.12.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal OCT - Train/Screenshot 2026-06-21 at 20.58.12.png,,OCT,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 13.07.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 13.07.18.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 13.07.18_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 13.07.18_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 13.07.18_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 13.07.18_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 13.07.18_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 13.07.18_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.26.25.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.26.25.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.26.25_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.26.25_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.26.25_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.26.25_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.26.25_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.26.25_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.49.04.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.49.04.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.49.04_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.49.04_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.49.04_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.49.04_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-20 at 18.49.04_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-20 at 18.49.04_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.07.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.07.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.07_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.07_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.07_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.07_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.07_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.07_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.27.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.27.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.27_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.27_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.27_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.27_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.18.27_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.18.27_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.31.02.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.31.02.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.31.02_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.31.02_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.31.02_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.31.02_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.31.02_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.31.02_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.34.16.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.34.16.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.34.16_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.34.16_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.34.16_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.34.16_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.34.16_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.34.16_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.43.20.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.43.20.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.43.20_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.43.20_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.43.20_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.43.20_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.43.20_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.43.20_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.45.41.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.45.41.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.45.41_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.45.41_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.45.41_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.45.41_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 13.45.41_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 13.45.41_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.15.01.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.15.01.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.15.01_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.15.01_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.15.01_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.15.01_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.15.01_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.15.01_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.18.00.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.18.00.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.18.00_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.18.00_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.18.00_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.18.00_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.18.00_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.18.00_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.19.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.19.18.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.19.18_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.19.18_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.19.18_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.19.18_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.19.18_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.19.18_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.27.15.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.27.15.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.27.15_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.27.15_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.27.15_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.27.15_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.27.15_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.27.15_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.30.26.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.30.26.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.30.26_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.30.26_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.30.26_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.30.26_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 14.30.26_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-21 at 14.30.26_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 17.46.18.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 17.46.18.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 17.46.18_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 17.46.18_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 17.46.18_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 17.46.18_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 17.46.18_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 17.46.18_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.08.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.08.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.08_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.08_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.08_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.08_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.08_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.08_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.26.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.26.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.26_aug1.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.26_aug1.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.26_aug2.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.26_aug2.png,,FAF,Train,Normal,0,60.0,Normal
+Screenshot 2026-06-22 at 18.19.26_aug3.png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FAF - train (Augmented)/Screenshot 2026-06-22 at 18.19.26_aug3.png,,FAF,Train,Normal,0,60.0,Normal
+1ffa9627-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9627-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa962f-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa962f-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9630-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9630-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9631-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9631-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9632-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9632-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9649-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9649-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa964b-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa964b-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa964c-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa964c-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9651-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9651-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+038.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/038.jpg,,FF,Train,Normal,0,60.0,Normal
+035.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/035.jpg,,FF,Train,Normal,0,60.0,Normal
+034.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/034.jpg,,FF,Train,Normal,0,60.0,Normal
+033.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/033.jpg,,FF,Train,Normal,0,60.0,Normal
+032.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/032.jpg,,FF,Train,Normal,0,60.0,Normal
+016.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/016.jpg,,FF,Train,Normal,0,60.0,Normal
+015.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/015.jpg,,FF,Train,Normal,0,60.0,Normal
+014.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/014.jpg,,FF,Train,Normal,0,60.0,Normal
+013.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/013.jpg,,FF,Train,Normal,0,60.0,Normal
+012.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/012.jpg,,FF,Train,Normal,0,60.0,Normal
+011.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/011.jpg,,FF,Train,Normal,0,60.0,Normal
+010.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/010.jpg,,FF,Train,Normal,0,60.0,Normal
+009.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/009.jpg,,FF,Train,Normal,0,60.0,Normal
+008.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/008.jpg,,FF,Train,Normal,0,60.0,Normal
+007.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/007.jpg,,FF,Train,Normal,0,60.0,Normal
+005.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/005.jpg,,FF,Train,Normal,0,60.0,Normal
+004.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/004.jpg,,FF,Train,Normal,0,60.0,Normal
+003.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/003.jpg,,FF,Train,Normal,0,60.0,Normal
+002.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/002.jpg,,FF,Train,Normal,0,60.0,Normal
+001.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/001.jpg,,FF,Train,Normal,0,60.0,Normal
+768px-Fundus_photograph_of_normal_right_eye.jpg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/768px-Fundus_photograph_of_normal_right_eye.jpg,,FF,Train,Normal,0,60.0,Normal
+1ffa965b-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa965b-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa965a-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa965a-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9659-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9659-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9658-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9658-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9656-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9656-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9655-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9655-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9644-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9644-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9642-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9642-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9634-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9634-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa963a-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa963a-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9633-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9633-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa962e-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa962e-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa962d-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa962d-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9629-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9629-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9654-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9654-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9647-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9647-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9643-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9643-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9641-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9641-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9640-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9640-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9638-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9638-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa9636-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9636-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa964a-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa964a-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa963f-8d87-11e8-9daf-6045cb817f5b..png,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa963f-8d87-11e8-9daf-6045cb817f5b..png,,FF,Train,Normal,0,60.0,Normal
+1ffa962b-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa962b-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa962a-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa962a-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+1ffa9628-8d87-11e8-9daf-6045cb817f5b..jpeg,/content/drive/MyDrive/CORD project/Image data sets/Train/Normal/Normal FF - Train (Cleaned)/1ffa9628-8d87-11e8-9daf-6045cb817f5b..jpeg,,FF,Train,Normal,0,60.0,Normal
+Case 1 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 1 - OCT.png,1.0,OCT,Test,CORD,1,35.0,Abnormal
+Case 2 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 2 - OCT.png,2.0,OCT,Test,CORD,1,75.0,Normal
+Case 3 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 3 - OCT.png,3.0,OCT,Test,CORD,1,55.0,Normal
+Case 4 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 4 - OCT.png,4.0,OCT,Test,CORD,1,38.0,Abnormal
+Case 5 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 5 - OCT.png,5.0,OCT,Test,CORD,1,42.0,Abnormal
+Case 6 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 6 - OCT.png,6.0,OCT,Test,CORD,1,19.0,Abnormal
+Case 7 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 7 - OCT.png,7.0,OCT,Test,CORD,1,30.0,Abnormal
+Case 14 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 14 - OCT.png,14.0,OCT,Test,CORD,1,9.0,Abnormal
+Case 15 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 15 - OCT.png,15.0,OCT,Test,CORD,1,11.0,Abnormal
+Case 8 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 8 - OCT.png,8.0,OCT,Test,CORD,1,10.0,Abnormal
+Case 9 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 9 - OCT.png,9.0,OCT,Test,CORD,1,5.9,Abnormal
+Case 10 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 10 - OCT.png,10.0,OCT,Test,CORD,1,8.5,Abnormal
+Case 11 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 11 - OCT.png,11.0,OCT,Test,CORD,1,12.5,Abnormal
+Case 12 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 12 - OCT.png,12.0,OCT,Test,CORD,1,9.1,Abnormal
+Case 13 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 13 - OCT.png,13.0,OCT,Test,CORD,1,12.6,Abnormal
+Case 17 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 17 - OCT.png,17.0,OCT,Test,CORD,1,10.3,Abnormal
+Case 18 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 18 - OCT.png,18.0,OCT,Test,CORD,1,5.0,Abnormal
+Case 19 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 19 - OCT.png,19.0,OCT,Test,CORD,1,5.0,Abnormal
+Case 20 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 20 - OCT.png,20.0,OCT,Test,CORD,1,30.0,Abnormal
+Case 21 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 21 - OCT.png,21.0,OCT,Test,CORD,1,5.0,Abnormal
+Case 22 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 22 - OCT.png,22.0,OCT,Test,CORD,1,22.0,Abnormal
+Case 23 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 23 - OCT.png,23.0,OCT,Test,CORD,1,18.0,Abnormal
+Case 24 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 24 - OCT.png,24.0,OCT,Test,CORD,1,15.0,Abnormal
+Case 25 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 25 - OCT.png,25.0,OCT,Test,CORD,1,8.0,Abnormal
+Case 28 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 28 - OCT.png,28.0,OCT,Test,CORD,1,28.0,Abnormal
+Case 26 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 26 - OCT.png,26.0,OCT,Test,CORD,1,42.0,Abnormal
+Case 27 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 27 - OCT.png,27.0,OCT,Test,CORD,1,35.0,Abnormal
+Case 30 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 30 - OCT.png,30.0,OCT,Test,CORD,1,30.0,Abnormal
+Case 31 -OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 31 -OCT.png,31.0,OCT,Test,CORD,1,37.5,Abnormal
+Case 29 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 29 - OCT.png,29.0,OCT,Test,CORD,1,60.0,Normal
+Case 32 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 32 - OCT.png,32.0,OCT,Test,CORD,1,60.0,Normal
+Case 33 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 33 - OCT.png,33.0,OCT,Test,CORD,1,67.5,Normal
+Case 34 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 34 - OCT.png,34.0,OCT,Test,CORD,1,32.5,Abnormal
+Case 35 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 35 - OCT.png,35.0,OCT,Test,CORD,1,75.0,Normal
+Case 36 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 36 - OCT.png,36.0,OCT,Test,CORD,1,95.0,Normal
+Case 37 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 37 - OCT.png,37.0,OCT,Test,CORD,1,52.5,Normal
+Case 38 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 38 - OCT.png,38.0,OCT,Test,CORD,1,40.0,Abnormal
+Case 16 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 16 - OCT.png,16.0,OCT,Test,CORD,1,55.6,Normal
+Case 39 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 39 - OCT.png,39.0,OCT,Test,CORD,1,7.0,Abnormal
+Case 40 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 40 - OCT.png,40.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 41 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 41 - OCT.png,41.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 42 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 42 - OCT.png,42.0,OCT,Test,CORD,1,8.0,Abnormal
+Case 43 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 43 - OCT.png,43.0,OCT,Test,CORD,1,22.0,Abnormal
+Case 44 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 44 - OCT.png,44.0,OCT,Test,CORD,1,42.0,Abnormal
+Case 45 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 45 - OCT.png,45.0,OCT,Test,CORD,1,52.0,Normal
+Case 46 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 46 - OCT.png,46.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 47 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 47 - OCT.png,47.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 49 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 49 - OCT.png,49.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 52 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 52 - OCT.png,52.0,OCT,Test,CORD,1,52.5,Normal
+Case 53 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 53 - OCT.png,53.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 54 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 54 - OCT.png,54.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 55 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 55 - OCT.png,55.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 56 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 56 - OCT.png,56.0,OCT,Test,CORD,1,66.0,Normal
+Case 57 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 57 - OCT.png,57.0,OCT,Test,CORD,1,66.0,Normal
+Case 60 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 60 - OCT.png,60.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 61 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 61 - OCT.png,61.0,OCT,Test,CORD,1,0.0,Abnormal
+Case 62 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 62 - OCT.png,62.0,OCT,Test,CORD,1,55.0,Normal
+Case 63 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 63 - OCT.png,63.0,OCT,Test,CORD,1,55.0,Normal
+Case 58 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 58 - OCT.png,58.0,OCT,Test,CORD,1,130.0,Normal
+Case 59 - OCT.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD OCT - Test/Case 59 - OCT.png,59.0,OCT,Test,CORD,1,130.0,Normal
+Case 23 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 23 - FAF.png,23.0,FAF,Test,CORD,1,18.0,Abnormal
+Case 24 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 24 - FAF.png,24.0,FAF,Test,CORD,1,15.0,Abnormal
+Case 25 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 25 - FAF.png,25.0,FAF,Test,CORD,1,8.0,Abnormal
+Case 26 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 26 - FAF.png,26.0,FAF,Test,CORD,1,42.0,Abnormal
+Case 27 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 27 - FAF.png,27.0,FAF,Test,CORD,1,35.0,Abnormal
+Case 14 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 14 - FAF.png,14.0,FAF,Test,CORD,1,9.0,Abnormal
+Case 15 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 15 - FAF.png,15.0,FAF,Test,CORD,1,11.0,Abnormal
+Case 29 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 29 - FAF.png,29.0,FAF,Test,CORD,1,60.0,Normal
+Case 30 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 30 - FAF.png,30.0,FAF,Test,CORD,1,30.0,Abnormal
+Case 31 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 31 - FAF.png,31.0,FAF,Test,CORD,1,37.5,Abnormal
+Case 32 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 32 - FAF.png,32.0,FAF,Test,CORD,1,60.0,Normal
+Case 34 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 34 - FAF.png,34.0,FAF,Test,CORD,1,32.5,Abnormal
+Case 35 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 35 - FAF.png,35.0,FAF,Test,CORD,1,75.0,Normal
+Case 36 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 36 - FAF.png,36.0,FAF,Test,CORD,1,95.0,Normal
+Case 37 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 37 - FAF.png,37.0,FAF,Test,CORD,1,52.5,Normal
+Case 38 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 38 - FAF.png,38.0,FAF,Test,CORD,1,40.0,Abnormal
+Case 1 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 1 - FAF.png,1.0,FAF,Test,CORD,1,35.0,Abnormal
+Case 2 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 2 - FAF.png,2.0,FAF,Test,CORD,1,75.0,Normal
+Case 3 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 3 - FAF.png,3.0,FAF,Test,CORD,1,55.0,Normal
+Case 4 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 4 - FAF.png,4.0,FAF,Test,CORD,1,38.0,Abnormal
+Case 5 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 5 - FAF.png,5.0,FAF,Test,CORD,1,42.0,Abnormal
+Case 6 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 6 - FAF.png,6.0,FAF,Test,CORD,1,19.0,Abnormal
+Case 7 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 7 - FAF.png,7.0,FAF,Test,CORD,1,30.0,Abnormal
+Case 39 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 39 - FAF.png,39.0,FAF,Test,CORD,1,7.0,Abnormal
+Case 40 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 40 - FAF.png,40.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 41 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 41 - FAF.png,41.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 42 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 42 - FAF.png,42.0,FAF,Test,CORD,1,8.0,Abnormal
+Case 43 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 43 - FAF.png,43.0,FAF,Test,CORD,1,22.0,Abnormal
+Case 44 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 44 - FAF.png,44.0,FAF,Test,CORD,1,42.0,Abnormal
+Case 45 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 45 - FAF.png,45.0,FAF,Test,CORD,1,52.0,Normal
+Case 46 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 46 - FAF.png,46.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 47 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 47 - FAF.png,47.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 48 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 48 - FAF.png,48.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 49 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 49 - FAF.png,49.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 50 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 50 - FAF.png,50.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 51 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 51 - FAF.png,51.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 52 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 52 - FAF.png,52.0,FAF,Test,CORD,1,52.5,Normal
+Case 53 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 53 - FAF.png,53.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 54 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 54 - FAF.png,54.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 55 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 55 - FAF.png,55.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 56 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 56 - FAF.png,56.0,FAF,Test,CORD,1,66.0,Normal
+Case 57 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 57 - FAF.png,57.0,FAF,Test,CORD,1,66.0,Normal
+Case 60 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 60 - FAF.png,60.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 61 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 61 - FAF.png,61.0,FAF,Test,CORD,1,0.0,Abnormal
+Case 62 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 62 - FAF.png,62.0,FAF,Test,CORD,1,55.0,Normal
+Case 63 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 63 - FAF.png,63.0,FAF,Test,CORD,1,55.0,Normal
+Case 22 - FAF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FAF - Test/Case 22 - FAF.png,22.0,FAF,Test,CORD,1,22.0,Abnormal
+Case 22 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 22 - FF.png,22.0,FF,Test,CORD,1,22.0,Abnormal
+Case 25 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 25 - FF.png,25.0,FF,Test,CORD,1,8.0,Abnormal
+Case 27 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 27 - FF.png,27.0,FF,Test,CORD,1,35.0,Abnormal
+Case 29 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 29 - FF.png,29.0,FF,Test,CORD,1,60.0,Normal
+Case 30 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 30 - FF.png,30.0,FF,Test,CORD,1,30.0,Abnormal
+Case 32 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 32 - FF.png,32.0,FF,Test,CORD,1,60.0,Normal
+Case 33 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 33 - FF.png,33.0,FF,Test,CORD,1,67.5,Normal
+Case 34 - ff.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 34 - ff.png,34.0,FF,Test,CORD,1,32.5,Abnormal
+Case 35 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 35 - FF.png,35.0,FF,Test,CORD,1,75.0,Normal
+Case 36 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 36 - FF.png,36.0,FF,Test,CORD,1,95.0,Normal
+Case 38 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 38 - FF.png,38.0,FF,Test,CORD,1,40.0,Abnormal
+Case 8 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 8 - FF.png,8.0,FF,Test,CORD,1,10.0,Abnormal
+Case 9 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 9 - FF.png,9.0,FF,Test,CORD,1,5.9,Abnormal
+Case 39 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 39 - FF.png,39.0,FF,Test,CORD,1,7.0,Abnormal
+Case 40 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 40 - FF.png,40.0,FF,Test,CORD,1,0.0,Abnormal
+Case 41 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 41 - FF.png,41.0,FF,Test,CORD,1,0.0,Abnormal
+Case 44 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 44 - FF.png,44.0,FF,Test,CORD,1,42.0,Abnormal
+Case 45 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 45 - FF.png,45.0,FF,Test,CORD,1,52.0,Normal
+Case 49 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 49 - FF.png,49.0,FF,Test,CORD,1,0.0,Abnormal
+Case 51 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 51 - FF.png,51.0,FF,Test,CORD,1,0.0,Abnormal
+Case 52 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 52 - FF.png,52.0,FF,Test,CORD,1,52.5,Normal
+Case 53 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 53 - FF.png,53.0,FF,Test,CORD,1,0.0,Abnormal
+Case 54 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 54 - FF.png,54.0,FF,Test,CORD,1,0.0,Abnormal
+Case 55 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 55 - FF.png,55.0,FF,Test,CORD,1,0.0,Abnormal
+Case 56 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 56 - FF.png,56.0,FF,Test,CORD,1,66.0,Normal
+Case 57 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 57 - FF.png,57.0,FF,Test,CORD,1,66.0,Normal
+Case 58 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 58 - FF.png,58.0,FF,Test,CORD,1,130.0,Normal
+Case 59 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 59 - FF.png,59.0,FF,Test,CORD,1,130.0,Normal
+Case 60 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 60 - FF.png,60.0,FF,Test,CORD,1,0.0,Abnormal
+Case 61 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 61 - FF.png,61.0,FF,Test,CORD,1,0.0,Abnormal
+Case 63 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 63 - FF.png,63.0,FF,Test,CORD,1,55.0,Normal
+Case 62 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 62 - FF.png,62.0,FF,Test,CORD,1,55.0,Normal
+Case 48 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 48 - FF.png,48.0,FF,Test,CORD,1,0.0,Abnormal
+Case 47 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 47 - FF.png,47.0,FF,Test,CORD,1,0.0,Abnormal
+Case 46 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 46 - FF.png,46.0,FF,Test,CORD,1,0.0,Abnormal
+Case 23 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 23 - FF.png,23.0,FF,Test,CORD,1,18.0,Abnormal
+Case 24 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 24 - FF.png,24.0,FF,Test,CORD,1,15.0,Abnormal
+Case 26 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 26 - FF.png,26.0,FF,Test,CORD,1,42.0,Abnormal
+Case 15 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 15 - FF.png,15.0,FF,Test,CORD,1,11.0,Abnormal
+Case 50 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 50 - FF.png,50.0,FF,Test,CORD,1,0.0,Abnormal
+Case 14 - FF.png,/content/drive/MyDrive/CORD project/Image data sets/Test/CORD/CORD FF - Test (Cleaned)/Case 14 - FF.png,14.0,FF,Test,CORD,1,9.0,Abnormal
+Screenshot 2026-06-11 at 20.58.42.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 20.58.42.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.00.10.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.00.10.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.01.57.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.01.57.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.02.56.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.02.56.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.03.43.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.03.43.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.04.45.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.04.45.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.05.27.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.05.27.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.06.46.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.06.46.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.07.31.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.07.31.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.08.03.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.08.03.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.08.58.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.08.58.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.49.52.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.49.52.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.52.28.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.52.28.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.52.49.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.52.49.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.54.20.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.54.20.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.55.35.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.55.35.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.57.01.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.57.01.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.57.47.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.57.47.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-11 at 21.58.53.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-11 at 21.58.53.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.45.25.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.45.25.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.46.11.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.46.11.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.47.05.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.47.05.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.47.47.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.47.47.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.48.43.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.48.43.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.07.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.49.07.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.49.42.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.49.42.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.50.05.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.50.05.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.10.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.52.10.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.52.24.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.52.24.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.09.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.53.09.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.29.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.53.29.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.53.44.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.53.44.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.54.01.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.54.01.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.54.31.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.54.31.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.11.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.55.11.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.34.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.55.34.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.55.56.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.55.56.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.16.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.56.16.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.31.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.56.31.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.56.52.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.56.52.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.57.34.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.57.34.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 20.58.03.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal OCT - Test/Screenshot 2026-06-21 at 20.58.03.png,,OCT,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.39.44.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.39.44.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.39.59.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.39.59.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.40.14.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.40.14.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.40.26.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.40.26.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.40.35.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.40.35.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.40.44.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.40.44.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.40.57.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.40.57.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.41.10.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.41.10.png,,FAF,Test,Normal,0,60.0,Normal
+Screenshot 2026-06-21 at 22.41.19.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FAF - Test/Screenshot 2026-06-21 at 22.41.19.png,,FAF,Test,Normal,0,60.0,Normal
+039.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/039.jpg,,FF,Test,Normal,0,60.0,Normal
+040.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/040.jpg,,FF,Test,Normal,0,60.0,Normal
+042.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/042.jpg,,FF,Test,Normal,0,60.0,Normal
+045.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/045.jpg,,FF,Test,Normal,0,60.0,Normal
+047.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/047.jpg,,FF,Test,Normal,0,60.0,Normal
+048.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/048.jpg,,FF,Test,Normal,0,60.0,Normal
+062.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/062.jpg,,FF,Test,Normal,0,60.0,Normal
+063.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/063.jpg,,FF,Test,Normal,0,60.0,Normal
+064.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/064.jpg,,FF,Test,Normal,0,60.0,Normal
+065.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/065.jpg,,FF,Test,Normal,0,60.0,Normal
+066.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/066.jpg,,FF,Test,Normal,0,60.0,Normal
+067.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/067.jpg,,FF,Test,Normal,0,60.0,Normal
+068.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/068.jpg,,FF,Test,Normal,0,60.0,Normal
+105.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/105.jpg,,FF,Test,Normal,0,60.0,Normal
+104.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/104.jpg,,FF,Test,Normal,0,60.0,Normal
+103.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/103.jpg,,FF,Test,Normal,0,60.0,Normal
+102.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/102.jpg,,FF,Test,Normal,0,60.0,Normal
+101.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/101.jpg,,FF,Test,Normal,0,60.0,Normal
+100.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/100.png,,FF,Test,Normal,0,60.0,Normal
+099.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/099.jpg,,FF,Test,Normal,0,60.0,Normal
+098.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/098.png,,FF,Test,Normal,0,60.0,Normal
+096.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/096.png,,FF,Test,Normal,0,60.0,Normal
+095.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/095.jpg,,FF,Test,Normal,0,60.0,Normal
+089.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/089.jpg,,FF,Test,Normal,0,60.0,Normal
+088.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/088.png,,FF,Test,Normal,0,60.0,Normal
+081.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/081.png,,FF,Test,Normal,0,60.0,Normal
+078.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/078.png,,FF,Test,Normal,0,60.0,Normal
+077.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/077.png,,FF,Test,Normal,0,60.0,Normal
+073.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/073.png,,FF,Test,Normal,0,60.0,Normal
+070.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/070.jpg,,FF,Test,Normal,0,60.0,Normal
+059.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/059.png,,FF,Test,Normal,0,60.0,Normal
+060.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/060.png,,FF,Test,Normal,0,60.0,Normal
+061.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/061.png,,FF,Test,Normal,0,60.0,Normal
+058.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/058.png,,FF,Test,Normal,0,60.0,Normal
+057.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/057.png,,FF,Test,Normal,0,60.0,Normal
+056.png,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/056.png,,FF,Test,Normal,0,60.0,Normal
+055.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/055.jpg,,FF,Test,Normal,0,60.0,Normal
+054.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/054.jpg,,FF,Test,Normal,0,60.0,Normal
+053.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/053.jpg,,FF,Test,Normal,0,60.0,Normal
+052.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/052.jpg,,FF,Test,Normal,0,60.0,Normal
+051.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/051.jpg,,FF,Test,Normal,0,60.0,Normal
+049.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/049.jpg,,FF,Test,Normal,0,60.0,Normal
+046.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/046.jpg,,FF,Test,Normal,0,60.0,Normal
+044.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/044.jpg,,FF,Test,Normal,0,60.0,Normal
+043.jpg,/content/drive/MyDrive/CORD project/Image data sets/Test/Normal/Normal FF - Test (Cleaned)/043.jpg,,FF,Test,Normal,0,60.0,Normal
